@@ -1,4 +1,4 @@
-# Exploritory analysis of best performing films at the box office
+# Exploratory analysis of best performing films at the box office
 This project was completed as part of Moringa school Data Science phase 1
 
 ## Problem Statement
