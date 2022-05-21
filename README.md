@@ -17,10 +17,15 @@ __1. title.basics.csv__
 Which contains the following information for titles:
 
 tconst (string): alphanumeric unique identifier of the title
+
 primaryTitle (string): the more popular title / the title used by the filmmakers on promotional materials at the point of release
+
 originalTitle (string): original title, in the original language
+
 startYear (YYYY): represents the release year of a title. In the case of TV Series, it is the series start year
+
 runtimeMinutes: primary runtime of the title, in minutes
+
 genres (string array): includes up to three genres associated with the title
 
 __2. title.ratings.csv__
