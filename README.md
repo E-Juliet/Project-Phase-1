@@ -87,12 +87,12 @@ An overview of the project's objectives,analysis,conclusion and recomendations
 ### Film release
 * There was a significant rise in the number of films released from 2010 to 2017,but there was significant drop in 2019.This could be due to the covid_19 pandemic
 
-![Release Year]
+![Release Year](https://github.com/E-Juliet/Project-Phase-1/blob/main/released%20films%20per%20year.png)
 
 ### Average rating
 * Most films were averagely rated between 6 and 7 out of 10
 
-![Rating]
+![Rating](https://github.com/E-Juliet/Project-Phase-1/blob/main/averagerating.png)
 
 ### Budget
 * The average budget of producing a film is around 36.5 million
@@ -100,13 +100,13 @@ An overview of the project's objectives,analysis,conclusion and recomendations
 ### Runtime minutes
 * The average runtime was 94 minutes
 
-![Runtime]
+![Runtime](https://github.com/E-Juliet/Project-Phase-1/blob/main/runtime.png)
 
 ### Correlation 
 #### Production budget vs gross
 * There is a strong relationhip between the production budget and gross having a correlation coefficient of 0.732 with domestic gross aand 0.794 with worldwide gross
 
-![Correlation]
+![Correlation](https://github.com/E-Juliet/Project-Phase-1/blob/main/production%20and%20gross.png)
 
 ## Recomendations
 * The head of Microsoft's new movie studio should consider creating films with different genres and not just one partivular one.A combination of adventure,action and science fiction received more votes.
