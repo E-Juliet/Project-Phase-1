@@ -12,7 +12,7 @@ Data was provide in form of zipfiles
 
 This project focused on three data sets
 
-1. title.basics.csv 
+__1. title.basics.csv__
 
 Which contains the following information for titles:
 
@@ -23,7 +23,7 @@ startYear (YYYY): represents the release year of a title. In the case of TV Seri
 runtimeMinutes: primary runtime of the title, in minutes
 genres (string array): includes up to three genres associated with the title
 
-2. title.ratings.csv
+__2. title.ratings.csv__
 
  Which contains:
 
@@ -33,7 +33,7 @@ genres (string array): includes up to three genres associated with the title
 
  numVotes: number of votes the title has received
 
-3. tn.movie_budgets.csv
+__3. tn.movie_budgets.csv__
 
   Which contains:
 
@@ -81,8 +81,42 @@ An overview of the project's objectives,analysis,conclusion and recomendations
 ## Key Findings
 
 ### Genres
+* The type of films with the most number of votes were from a mixture of genres(action,adventure and science fiction) and not just one particular genre
+![Genres](https://github.com/E-Juliet/Project-Phase-1/blob/main/Genres.png)
 
-The type of films with the most number of votes were from a mixture of genres(action,adventure and science fiction) and not just one particular genre
+### Film release
+* There was a significant rise in the number of films released from 2010 to 2017,but there was significant drop in 2019.This could be due to the covid_19 pandemic
+
+![Release Year]
+
+### Average rating
+* Most films were averagely rated between 6 and 7 out of 10
+
+![Rating]
+
+### Budget
+* The average budget of producing a film is around 36.5 million
+
+### Runtime minutes
+* The average runtime was 94 minutes
+
+![Runtime]
+
+### Correlation 
+#### Production budget vs gross
+* There is a strong relationhip between the production budget and gross having a correlation coefficient of 0.732 with domestic gross aand 0.794 with worldwide gross
+
+![Correlation]
+
+## Recomendations
+* The head of Microsoft's new movie studio should consider creating films with different genres and not just one partivular one.A combination of adventure,action and science fiction received more votes.
+
+* The head of Microsoft's new movie should also ensure that they have enough capital because the average cost of producing a film is around 37 million US dollars.
+
+* The head of Microsoft's new movie studio should consider creating film are not more than 2 hours
+
+* There is also a significant return on investment due to the strong correlation between production budget and worldwide gross 
+
 
 
 
