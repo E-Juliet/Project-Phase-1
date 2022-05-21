@@ -75,7 +75,7 @@ An overview of the project's objectives,analysis,conclusion and recomendations
 
 ## Objectives
 
-* To indentify which type of films have the highest votes
+* To identify which type of films have the highest votes
 
 * To identify which type of films have the highest gross
 
