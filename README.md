@@ -77,7 +77,7 @@ An overview of the project's objectives,analysis,conclusion and recomendations
 
 * To identify which type of films have the highest votes
 
-* To identify which type of films have the highest gross
+* To identify which films have the highest gross
 
 * To find the average duration of a film
 
@@ -86,11 +86,11 @@ An overview of the project's objectives,analysis,conclusion and recomendations
 ## Key Findings
 
 ### Genres
-* The type of films with the most number of votes were from a mixture of genres(action,adventure and science fiction) and not just one particular genre
+* The type of films with the most number of votes were from a combination of different genres(action,adventure and science fiction) and not just one particular genre
 ![Genres](https://github.com/E-Juliet/Project-Phase-1/blob/main/Genres.png)
 
 ### Film release
-* There was a significant rise in the number of films released from 2010 to 2017,but there was significant drop in 2019.This could be due to the covid_19 pandemic
+* There was a steady rise in the number of films released from 2010 to 2017,but a significant drop in 2019.This could be due to the covid_19 pandemic
 
 ![Release Year](https://github.com/E-Juliet/Project-Phase-1/blob/main/released%20films%20per%20year.png)
 
@@ -109,7 +109,7 @@ An overview of the project's objectives,analysis,conclusion and recomendations
 
 ### Correlation 
 #### Production budget vs gross
-* There is a strong relationhip between the production budget and gross having a correlation coefficient of 0.732 with domestic gross aand 0.794 with worldwide gross
+* There is a strong relationship between the production budget and gross having a correlation coefficient of 0.732 with domestic gross aand 0.794 with worldwide gross
 
 ![Correlation](https://github.com/E-Juliet/Project-Phase-1/blob/main/production%20and%20gross.png)
 
@@ -118,7 +118,7 @@ An overview of the project's objectives,analysis,conclusion and recomendations
 
 * The head of Microsoft's new movie should also ensure that they have enough capital because the average cost of producing a film is around 37 million US dollars.
 
-* The head of Microsoft's new movie studio should consider creating film are not more than 2 hours
+* The head of Microsoft's new movie studio should consider creating films not more than 2 hours
 
 * There is also a significant return on investment due to the strong correlation between production budget and worldwide gross 
 
